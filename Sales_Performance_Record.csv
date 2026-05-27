@@ -1,0 +1,121 @@
+Month,Region,Product,Units Sold,Revenue 
+January,Lagos,Zobo Drink,152,470.15 
+January,Lagos,Tigernut Drink,64,189.70 
+January,Lagos,Popcorn,238,641.10 
+January,Lagos,Kilishi,171,309.85 
+January,Lagos,Mini Kilishi,124,299.89 
+January,Abuja,Zobo Drink,166,448.57 
+January,Abuja,Tigernut Drink,201,563.16 
+January,Abuja,Popcorn,102,350.86 
+January,Abuja,Kilishi,285,962.48 
+January,Abuja,Mini Kilishi,179,333.59 
+January,Ibadan,Zobo Drink,70,191.45 
+January,Ibadan,Tigernut Drink,107,272.80 
+January,Ibadan,Popcorn,285,440.65 
+January,Ibadan,Kilishi,268,729.95 
+January,Ibadan,Mini Kilishi,219,348.94 
+January,Port Harcourt,Zobo Drink,237,529.16 
+January,Port Harcourt,Tigernut Drink,239,401.81 
+January,Port Harcourt,Popcorn,239,453.94 
+January,Port Harcourt,Kilishi,104,360.51 
+January,Port Harcourt,Mini Kilishi,298,474.68 
+February,Lagos,Zobo Drink,100,286.06 
+February,Lagos,Tigernut Drink,122,198.87 
+February,Lagos,Popcorn,181,612.58 
+February,Lagos,Kilishi,63,196.36 
+February,Lagos,Mini Kilishi,58,88.85 
+February,Abuja,Zobo Drink,179,513.46 
+February,Abuja,Tigernut Drink,160,458.64 
+February,Abuja,Popcorn,221,550.37 
+February,Abuja,Kilishi,224,413.67 
+February,Abuja,Mini Kilishi,130,262.28 
+February,Ibadan,Zobo Drink,153,460.64 
+February,Ibadan,Tigernut Drink,183,350.61 
+February,Ibadan,Popcorn,53,99.09 
+February,Ibadan,Kilishi,240,764.30 
+February,Ibadan,Mini Kilishi,93,314.25 
+February,Port Harcourt,Zobo Drink,239,801.44 
+February,Port Harcourt,Tigernut Drink,144,481.50 
+February,Port Harcourt,Popcorn,249,657.58 
+February,Port Harcourt,Kilishi,298,1019.86 
+February,Port Harcourt,Mini Kilishi,262,596.67 
+March,Lagos,Zobo Drink,131,337.90 
+March,Lagos,Tigernut Drink,73,161.59 
+March,Lagos,Popcorn,237,612.74 
+March,Lagos,Kilishi,90,188.33 
+March,Lagos,Mini Kilishi,94,155.02 
+March,Abuja,Zobo Drink,120,281.62 
+March,Abuja,Tigernut Drink,178,337.74 
+March,Abuja,Popcorn,265,404.96 
+March,Abuja,Kilishi,292,850.80 
+March,Abuja,Mini Kilishi,212,653.03 
+March,Ibadan,Zobo Drink,172,283.47 
+March,Ibadan,Tigernut Drink,280,784.60 
+March,Ibadan,Popcorn,77,248.42 
+March,Ibadan,Kilishi,121,290.27 
+March,Ibadan,Mini Kilishi,82,133.42 
+March,Port Harcourt,Zobo Drink,200,567.54 
+March,Port Harcourt,Tigernut Drink,86,254.49 
+March,Port Harcourt,Popcorn,153,313.56 
+March,Port Harcourt,Kilishi,84,205.33 
+March,Port Harcourt,Mini Kilishi,150,516.51 
+April,Lagos,Zobo Drink,180,543.88 
+April,Lagos,Tigernut Drink,267,526.52 
+April,Lagos,Popcorn,191,475.13 
+April,Lagos,Kilishi,186,543.37 
+April,Lagos,Mini Kilishi,139,215.57 
+April,Abuja,Zobo Drink,254,483.47 
+April,Abuja,Tigernut Drink,145,402.06 
+April,Abuja,Popcorn,101,265.28 
+April,Abuja,Kilishi,181,600.04 
+April,Abuja,Mini Kilishi,200,541.77 
+April,Ibadan,Zobo Drink,192,578.13 
+April,Ibadan,Tigernut Drink,85,287.79 
+April,Ibadan,Popcorn,120,249.54 
+April,Ibadan,Kilishi,135,440.23 
+April,Ibadan,Mini Kilishi,219,682.46 
+April,Port Harcourt,Zobo Drink,234,400.37 
+April,Port Harcourt,Tigernut Drink,77,239.27 
+April,Port Harcourt,Popcorn,93,216.97 
+April,Port Harcourt,Kilishi,239,616.31 
+April,Port Harcourt,Mini Kilishi,299,521.51 
+May,Lagos,Zobo Drink,266,568.18 
+May,Lagos,Tigernut Drink,274,560.13 
+May,Lagos,Popcorn,76,178.92 
+May,Lagos,Kilishi,165,363.85 
+May,Lagos,Mini Kilishi,52,78.72 
+May,Abuja,Zobo Drink,249,639.48 
+May,Abuja,Tigernut Drink,111,215.81 
+May,Abuja,Popcorn,100,203.88 
+May,Abuja,Kilishi,201,680.55 
+May,Abuja,Mini Kilishi,167,323.57 
+May,Ibadan,Zobo Drink,265,770.10 
+May,Ibadan,Tigernut Drink,162,264.03 
+May,Ibadan,Popcorn,235,804.85 
+May,Ibadan,Kilishi,88,219.52 
+May,Ibadan,Mini Kilishi,162,290.98 
+May,Port Harcourt,Zobo Drink,233,366.69 
+May,Port Harcourt,Tigernut Drink,162,559.42 
+May,Port Harcourt,Popcorn,269,431.20 
+May,Port Harcourt,Kilishi,278,608.86 
+May,Port Harcourt,Mini Kilishi,178,352.28 
+June,Lagos,Zobo Drink,179,458.57 
+June,Lagos,Tigernut Drink,267,926.84 
+June,Lagos,Popcorn,209,561.25 
+June,Lagos,Kilishi,232,701.39 
+June,Lagos,Mini Kilishi,172,341.30 
+June,abuja,Zobo Drink,87,194.49 
+June,Abuja,Tigernut Drink,165,572.03 
+June,Abuja,Popcorn,263,676.32 
+June,Abuja,Kilishi,289,894.94 
+June,Abuja,Mini Kilishi,250,535.39 
+June,Ibadan,Zobo Drink,119,344.10 
+June,Ibadan,Tigernut Drink,52,139.45 
+June,Ibadan,Popcorn,236,457.95 
+June,Ibadan,Kilishi,139,350.86 
+June,Ibadan,Mini Kilishi,196,430.68 
+June,Port Harcourt,Zobo Drink,248,458.49 
+June,Port Harcourt,Tigernut Drink,210,481.98 
+June,Port Harcourt,Popcorn,88,296.86 
+June,Port Harcourt,Kilishi,178,507.55 
+June,Port Harcourt,Mini Kilishi,234,404.11 
