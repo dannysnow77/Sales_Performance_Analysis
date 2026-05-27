@@ -118,6 +118,6 @@ This SQL sales analysis project demonstrates the ability to:
 The project reflects real-world data analyst responsibilities and showcases foundational skills in SQL-based performance analysis.
 
 ## Preview
-Excel Dashboard Screenshot (https://github.com/dannysnow77/Sales_Performance_Analysis/blob/main/sales_performance_excel_dashboard_screenshot.JPG)
+[Excel Dashboard Screenshot] (https://github.com/dannysnow77/Sales_Performance_Analysis/blob/main/sales_performance_excel_dashboard_screenshot.JPG)
 
 Click the image above to see a preview of the final dashboard.
